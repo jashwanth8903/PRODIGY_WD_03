@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/Tic-Tac-Toe-game/static/css/main.27d55c77.css",
-    "main.js": "/Tic-Tac-Toe-game/static/js/main.beaff06e.js",
-    "static/js/453.e036e8b5.chunk.js": "/Tic-Tac-Toe-game/static/js/453.e036e8b5.chunk.js",
-    "index.html": "/Tic-Tac-Toe-game/index.html",
-    "main.27d55c77.css.map": "/Tic-Tac-Toe-game/static/css/main.27d55c77.css.map",
-    "main.beaff06e.js.map": "/Tic-Tac-Toe-game/static/js/main.beaff06e.js.map",
-    "453.e036e8b5.chunk.js.map": "/Tic-Tac-Toe-game/static/js/453.e036e8b5.chunk.js.map"
+    "main.css": "/PRODIGY_WD_03/static/css/main.27d55c77.css",
+    "main.js": "/PRODIGY_WD_03/static/js/main.91ac0698.js",
+    "static/js/453.e036e8b5.chunk.js": "/PRODIGY_WD_03/static/js/453.e036e8b5.chunk.js",
+    "index.html": "/PRODIGY_WD_03/index.html",
+    "main.27d55c77.css.map": "/PRODIGY_WD_03/static/css/main.27d55c77.css.map",
+    "main.91ac0698.js.map": "/PRODIGY_WD_03/static/js/main.91ac0698.js.map",
+    "453.e036e8b5.chunk.js.map": "/PRODIGY_WD_03/static/js/453.e036e8b5.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.27d55c77.css",
-    "static/js/main.beaff06e.js"
+    "static/js/main.91ac0698.js"
   ]
 }
